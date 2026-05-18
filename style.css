@@ -1,3 +1,7 @@
-.index-body-header {
-    background-color: #BFE600;
+.general-body-header {
+  background-color: #bfe600;
+  color: #2c3e50;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 20px;
 }
